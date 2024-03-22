@@ -7,9 +7,6 @@ https://github.com/manoj4724/robotic-arm/assets/65806100/e7be9db6-bdec-4e61-b102
 
 
 
-https://github.com/manoj4724/robotic-arm/assets/65806100/5b516aaa-8af8-4f90-8e49-4a7fe36456af
-
-
 
 
 https://github.com/manoj4724/robotic-arm/assets/65806100/18b98013-0009-4074-a731-9c806ee5dbcd
