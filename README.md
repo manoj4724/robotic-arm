@@ -1,4 +1,9 @@
-
+IMPORTANT THINGS TO FOCUS ON 
+- Selecting the servors (i made a mistake of selecting 360 servo which works on rotation, but we neec 180 servo which works on angle)
+- Select appropriate firmware according to your applicarion or requirement.
+- Microcontroller which is suitable and has wifi or bluetooth module integrated in it, which helps in reducing the work of getting a seperate module and then developing the application interface.
+- Learning inverse kinamatics to calcuate the positon and the angle of the robotic arm to reach the object.
+- 
 https://github.com/manoj4724/robotic-arm/assets/65806100/944003ef-cb73-40b0-8cd3-a92875105a38
 # robotic-arm
 
